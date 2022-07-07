@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<html lang="pt-br">
+		<meta charset="UTF-8">
+		<title> Futebol Hoje </title>
+	</head>
+
+	<body>
+
+		<h1> Notícia</h1>
+		<p> Brasil irá jogar contra a Sérvia no dia 24 de novembro de 2022 ás 14:00(horário de brasília)</p>
+
+		<p style="font-size 20px"><em>Nosso site disponibiliza: <strong>"Uma assinatura mensal para assistir os jogos do mundo inteiro por R$7,95 por mês".</strong></em></p>
+
+		<p>Corinthians ganha do Santos de 4-0, pelas oitavas de final da Copa do Brasil. Ele irá jogar pelas oitavas de final da Copa Libertadores, no dia 28 de junho ás 21:30(Horário de Brasília).</p>
+	</body>
+</html>
